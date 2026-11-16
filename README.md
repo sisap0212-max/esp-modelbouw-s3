@@ -11,3 +11,5 @@ Bestanden voor automatische software-updates van het mini-billboard (ESP32-S3, 1
 | `billboard_s3_eerste_installatie.bin` | Volledig bestand voor de allereerste keer flashen (4 MB). |
 
 Niet hernoemen, verplaatsen of verwijderen.
+
+© 2026 Samuel Sap en Kees Sap. Alle rechten voorbehouden, zie [LICENTIE.md](LICENTIE.md).
